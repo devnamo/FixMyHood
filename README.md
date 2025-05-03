@@ -1,7 +1,7 @@
 FixMyHood is a community-driven platform that empowers citizens to report and resolve local issues — from garbage dumps and water leaks to broken roads. Just snap a photo, tag the issue, and submit your report. You can also upvote issues reported by others that affect you too.
 By highlighting the most upvoted problems, FixMyHood ensures that local authorities and committees can prioritize what matters most. And because it's built for the community, anyone can step up and volunteer to help fix the problems together :) 
 
-Features:-
+Features:
 📸 Report with a Snap
   Upload photos of civic issues and tag the appropriate category.
 📍 Location-Based Feeds
