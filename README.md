@@ -3,7 +3,7 @@ FixMyHood is a community-driven platform that empowers citizens to report and re
 By highlighting the most upvoted problems, FixMyHood ensures that local authorities and committees can prioritize what matters most. And because it's built for the community, anyone can step up and volunteer to help fix the problems together :) 
 
 
-Features:
+FixMyHood Features:-
 
 📸 Report with a Snap
   Upload photos of civic issues and tag the appropriate category.
@@ -45,7 +45,8 @@ What Makes FixMyHood Unique?
    Tailored for Tier 2/3 areas often neglected by digital infrastructure, bringing smart tools to everyone.
 
 
-🧑‍💻 Tech Stack
+Tech Stack:-
+
 Frontend: React Native  
 Backend & Realtime Database: Firebase (Firestore, Authentication, Storage)  
 Maps & Location Services: Google Maps API  
@@ -53,7 +54,8 @@ State Management: Redux Toolkit
 Notifications: Firebase Cloud Messaging (FCM)
 
 
-📦 Installation & Setup (optional)
+Installation & Setup (optional):-
+
 Clone the repo:-
 git clone https://github.com/yourusername/FixMyHood.git
 
