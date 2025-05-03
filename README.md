@@ -1,4 +1,5 @@
  🛠 FixMyHood
+ 
 FixMyHood is a civic engagement platform that empowers everyday citizens to report and resolve local issues — from garbage dumps and water leaks to broken roads. Simply snap a photo, tag the issue, and report it. Together, we can fix our neighborhoods.
 
 🚀 Features:-
