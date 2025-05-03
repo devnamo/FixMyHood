@@ -42,6 +42,7 @@ FixMyHood is a civic engagement platform that empowers everyday citizens to repo
    Tailored for Tier 2/3 areas often neglected by digital infrastructure, bringing smart tools to everyone.
 
 🧑‍💻 Tech Stack
+
 Frontend: React Native  
 Backend & Realtime Database: Firebase (Firestore, Authentication, Storage)  
 Maps & Location Services: Google Maps API  
