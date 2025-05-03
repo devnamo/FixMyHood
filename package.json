@@ -1,0 +1,11 @@
+{
+  "name": "fixmyhood",
+  "version": "1.0.0",
+  "description": "FixMyHood is a civic engagement platform that empowers everyday citizens to report and resolve local issues — from garbage dumps and water leaks to broken roads. Simply snap a photo, tag the issue, and report it. Together, we can fix our neighborhoods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
