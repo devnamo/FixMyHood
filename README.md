@@ -57,7 +57,7 @@ Notifications: Firebase Cloud Messaging (FCM)
 Installation & Setup (optional):-
 
 Clone the repo:-
-git clone https://github.com/devnamo/FixMyHood.git
+git clone [https://github.com/devnamo/FixMyHood.git](https://github.com/devnamo/FixMyHood.git)
 
 Navigate into the project folder:-
 cd FixMyHood
